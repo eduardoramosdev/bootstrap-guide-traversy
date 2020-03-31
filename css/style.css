@@ -1,0 +1,12 @@
+.navbar {
+    margin-bottom: 0;
+    /* this removes the rounded corners of navbar */
+    border-radius: 0;
+}
+/* Maybe background header
+.jumbotroon, .text-center {
+    background-image: url(../images/aerial-photo-of-cityscape-at-night-2362004.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+*/
